@@ -1,1 +1,1 @@
-// future interaction scripts
+// interaction scripts
